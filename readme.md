@@ -50,11 +50,11 @@ After installing Git, we configure Git so that code editors can use it properly.
 3. Local level (The specific repository only)
 
 #### Global Level Git configuration
-> git config --help
-> git config --global user.name "Abhinav Sharma"
-> git config --global user.email kumar.abhinav5670@gmail.com
-> git config --global core.editor "code --wait"
-> git config --global -e    (To open the '.gitconfig' file)
+- 'git config --help'
+- 'git config --global user.name "Abhinav Sharma"'
+- 'git config --global user.email kumar.abhinav5670@gmail.com'
+- 'git config --global core.editor "code --wait"'
+- 'git config --global -e'    (To open the '.gitconfig' file)
 
 
 
